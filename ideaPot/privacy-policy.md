@@ -25,6 +25,6 @@
 
 本プライバシーポリシーについてのご質問やご意見がある場合は、以下のメールアドレスまたはTwitterよりお問い合わせください。
 
-- [開発者のTwitter](https://twitter.com/nyosubro0706)
+- [Twitter](https://twitter.com/nyosubro0706)
 
-- お問い合わせ先メールアドレス：ideapot.info@gmail.com
+- メールアドレス：ideapot.info@gmail.com
