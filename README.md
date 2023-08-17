@@ -14,6 +14,6 @@
 
 「シャべマル」で、日々の思い出や感じたことを音声で手軽に記録し、豊かなメモ日記ライフを楽しみましょう！
 
-[利用規約](./shabemaru/terms-of-service.html)
+[利用規約](./Shabemaru/terms-of-service.html)
 
-[プライバシーポリシー](./shabemaru/privacy-policy.html)
+[プライバシーポリシー](./Shabemaru/privacy-policy.html)
