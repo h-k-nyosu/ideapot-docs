@@ -1,0 +1,66 @@
+body {
+    font-size: 18px;
+    line-height: 1.6;
+    font-family: 'Roboto', sans-serif;
+}
+
+.app-section {
+    display: flex;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.app-image {
+    width: 50%;
+    object-fit: cover;
+    margin: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.app-description {
+    margin: 30px;
+    font-size: 2rem;
+}
+
+/* 最初のセクションのスタイルを変更 */
+.intro-section {
+    position: relative;
+}
+
+.intro-image {
+    width: 100%;
+}
+
+.intro-description {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: black; 
+    font-size: 32px;
+}
+
+.intro-description > h1 {
+    font-size: 4rem;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-container.reverse {
+    flex-direction: row-reverse;
+}
+
+
+@media (max-width: 600px) {
+    .app-section {
+        flex-direction: column;
+    }
+    .app-image, .app-description {
+        width: 100%;
+        margin: 10px 0;
+    }
+}
