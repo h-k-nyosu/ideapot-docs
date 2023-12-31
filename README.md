@@ -17,3 +17,19 @@
 [利用規約](./Shabemaru/terms-of-service.html)
 
 [プライバシーポリシー](./Shabemaru/privacy-policy.html)
+
+
+# MemoMaru
+
+"MemoMaru" is a specialized voice memo diary app. Record daily events, feelings, sudden inspirations and ideas quickly in voice, and automatically transcribe them into text. In addition, it supports the generation of titles, emojis, emotions, and categorization, strongly supporting the creation of a fulfilling diary.
+
+By creating a review report from the memo content, you can look back on the events and emotional changes of each month, and deepen your self-understanding.
+
+With "MemoMaru", easily record your daily memories and feelings in voice, and enjoy a rich memo diary life!
+
+[More Info](./MemoMaru/product.html)
+
+[Terms of Service](./MemoMaru/terms-of-service.html)
+
+[Privacy Policy](./MemoMaru/privacy-policy.html)
+
