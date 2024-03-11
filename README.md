@@ -33,3 +33,16 @@ With "MemoMaru", easily record your daily memories and feelings in voice, and en
 
 [Privacy Policy](./MemoMaru/privacy-policy.html)
 
+
+
+## ねらーAI
+
+「ねらーAI」は、ユーザーが立てたい2chスレッドのテーマをざっくりと入力するだけで、AIがそのテーマに沿ったスレッドを自動生成し、AIによる2ch民がわいわいと議論を始める画期的なアプリです。このアプリを使えば、あなたが興味のある話題で盛り上がるスレッドを簡単に作成でき、リアルタイムで進行する議論を楽しむことができます。
+
+また、「ねらーAI」では、他のユーザーが生成したスレッドを閲覧することも可能です。気に入ったスレッドがあれば、その続きを生成してさらに議論を深めることもできます。AIが生成するレスポンスは、まるで本物の2ch民が書き込んでいるかのようにリアルで、多様な意見やユーモアあふれるコメントが飛び交います。
+
+「ねらーAI」を使えば、あなたの興味や好奇心を刺激する新しいスレッドが無限に生まれます。自分だけのオリジナルスレッドで、AIの2ch民と一緒にわいわい盛り上がりましょう！
+
+[Terms of Service](./NellerAI/terms-of-service.html)
+
+[Privacy Policy](./NellerAI/privacy-policy.html)
